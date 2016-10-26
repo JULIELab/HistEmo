@@ -3,7 +3,7 @@
 ## Overview
 This repository contains the following resources: 
 - A gold standard of word-emotion association of German words in the 18th and 19th century manually annotated by several doctoral students of different fields of the humanities.
-- An extensive lexicon reflecting word-emotion association of German words in the 18th and 19th century. The lexicon was automatically induced by expanding a contemporary lexicon of this kind and jointly adapting it to that prior language stage.
+- An extensive lexicon reflecting word-emotion association of German words in the 18th and 19th century. The lexicon was automatically induced by expanding a contemporary emotion lexicon and jointly adapting it to that prior language stage.
 
 Emotion is represented following the psychological Valence-Arousal-Dominance model. It assumes that an affective state can be described relative to three emotional dimensions: Valence (the degree of pleasentness or unpleasentness of an emotion), Arousal (degree of calmness or excitement), and Dominance (the degree of perceived control ranging from submissive to dominant).
 
