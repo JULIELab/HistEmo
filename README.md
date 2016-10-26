@@ -1,4 +1,4 @@
-# HistEmo
+# HistEmo—Resources for German Historical Emotion Analysis
 
 ## Overview
 This repository contains the following resources: 
