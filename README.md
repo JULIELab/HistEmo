@@ -12,7 +12,8 @@ The resources are in tsv format: The first column holds the lexical entries, the
 Please consult the paper below for details.
 
 ## Citation
-Sven Buechel, Johannes Hellrich and Udo Hahn: Feelings from the Past—Adapting Affective Lexicons for Historical Emotion Analysis. In: LT4DH @ COLING 2016 [accepted].
+Buechel, S., Hellrich, J., & Hahn, U. (2016). Feelings from the Past—Adapting Affective Lexicons for Historical Emotion Analysis. In Proceedings of the Workshop on Language Technology Resources and Tools for Digital Humanities (LT4DH) @COLING 2016. December 11, 2016, Osaka, Japan (pp. 54–61).
+
 
 ## Contact
 I am happy to give additional information or get feedback on these resources via email: sven-eric.buechel@uni-jena.de
