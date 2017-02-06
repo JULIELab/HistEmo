@@ -16,4 +16,4 @@ Buechel, S., Hellrich, J., & Hahn, U. (2016). Feelings from the Past—Adapting 
 
 
 ## Contact
-I am happy to give additional information or get feedback on these resources via email: sven-eric.buechel@uni-jena.de
+I am happy to give additional information or get feedback on these resources via email: sven.buechel@uni-jena.de
