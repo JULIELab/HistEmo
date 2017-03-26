@@ -11,6 +11,9 @@ The resources are in tsv format: The first column holds the lexical entries, the
 
 Please consult the paper below for details.
 
+## License
+This work is licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
 ## Citation
 Buechel, S., Hellrich, J., & Hahn, U. (2016). Feelings from the Past—Adapting Affective Lexicons for Historical Emotion Analysis. In Proceedings of the Workshop on Language Technology Resources and Tools for Digital Humanities (LT4DH) @COLING 2016. December 11, 2016, Osaka, Japan (pp. 54–61).
 
