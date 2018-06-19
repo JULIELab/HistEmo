@@ -1,0 +1,3 @@
+# Gold Lexicons for Historical English and German Word Emotion
+
+... details are coming up soon...
