@@ -2,6 +2,8 @@
 
 This directory contains two gold standard lexicon for English and German, respectively, which descibe the emotion associated to words in former times. Details about the annotation process can be found in our [arXiv paper](https://arxiv.org/abs/1806.08115). Please cite when using these data sets.
 
+*Johannes Hellrich, Sven Buechel, and Udo Hahn. 2018. Inducing and tracking affective lexical semantics in historical language. arxiv.org/abs/1806.08115.*
+
 ```
 @misc{Hellrich18arxiv,
 author={Hellrich, Johannes and Buechel, Sven and Hahn, Udo},
